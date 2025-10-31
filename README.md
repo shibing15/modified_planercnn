@@ -9,6 +9,8 @@ This paper will be presented (Oral) in IEEE CVPR 2019.
 
 **Some changes has been made to enable planercnn interference on pytorch1.13 cuda 11.7**
 
+**Thanks for @jrodzon !!!**
+
 ## Introduction
 
 This paper proposes a deep neural architecture, PlaneR-CNN, that detects arbitrary number of planes, and reconstructs piecewise planar surfaces from a single RGB image. 
