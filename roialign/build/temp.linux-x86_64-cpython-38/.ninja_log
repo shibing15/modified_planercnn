@@ -1,0 +1,4 @@
+# ninja log v5
+0	16866	1761837516387463637	/home/ai-i-sunyunda/code/planercnn-pytorch1.10.1_cuda11.3/roialign/build/temp.linux-x86_64-cpython-38/roi_align/src/crop_and_resize.o	fb7ff9000e3496d4
+4	3345	1761837520219559170	/home/ai-i-sunyunda/code/planercnn-pytorch1.10.1_cuda11.3/roialign/build/temp.linux-x86_64-cpython-38/roi_align/src/cuda/crop_and_resize_kernel.o	4b061b2f4237c8bc
+4	17069	1761837533927900297	/home/ai-i-sunyunda/code/planercnn-pytorch1.10.1_cuda11.3/roialign/build/temp.linux-x86_64-cpython-38/roi_align/src/crop_and_resize_gpu.o	a0bda53e7943f950

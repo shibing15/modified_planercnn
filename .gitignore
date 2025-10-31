@@ -1,0 +1,6 @@
+*.pth
+*.zip
+checkpoint/
+anchors/
+test/
+.vscode
