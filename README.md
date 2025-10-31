@@ -32,10 +32,15 @@ This work is licensed under the [Creative Commons Attribution NonCommercial Shar
 ## Getting Started 
 Clone repository: 
 ```
-git clone https://github.com/NVlabs/planercnn.git
+git clone https://github.com/shibing15/modified_planercnn.git
 ```
 
+| \*RoIAlign\*                                                 |
+| :----------------------------------------------------------- |
+| install RoIAlign for pytorch1.0 from [here](https://github.com/longcw/RoIAlign.pytorch) |
+
 Please use Python 3. Create an [Anaconda](https://www.anaconda.com/distribution/) environment and install the dependencies:
+
 ```
 conda create --name planercnn
 conda activate planercnn
